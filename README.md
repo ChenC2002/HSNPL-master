@@ -132,7 +132,6 @@ python train.py --all the parameters can be viewed in the train.py
 See the codes for more details.
 
 ## Citation
-If you take advantage of the HSNPL model in your research, please cite the following in your manuscript:
 ```
 @article{CHEN2025113215,
 title = {Heterogeneous subgraph network with prompt learning for interpretable depression detection on social media},
